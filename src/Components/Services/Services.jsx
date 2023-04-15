@@ -26,7 +26,7 @@ export default class Services extends Component {
       },
       {
         icon: <FaBeer />,
-        title: 'storages beer',
+        title: 'storage beer',
         info: 'Keep your beer cool and fresh with our convenient on-site storage facilities for your favorite brews.'
       }
     ]
